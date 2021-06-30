@@ -73,7 +73,7 @@ Link to x86 or MIPS documentation for further reading throughout lesson.
 
 ## Exercises In-Depth
 
-#### Introduction and Why (Text / Image)
+### Introduction and Why (Text / Image)
 
 - NARRATIVE
   - What is Assembly?
@@ -85,7 +85,7 @@ Link to x86 or MIPS documentation for further reading throughout lesson.
   - Move to the next exercise
 - ARTWORK: Hamburger Analogy
 
-#### Modern Assembly Purpose/Benefits (Text / Image)
+### Modern Assembly Purpose/Benefits (Text / Image)
 
 - NARRATIVE
   - Assembly in the Industry
@@ -99,7 +99,7 @@ Link to x86 or MIPS documentation for further reading throughout lesson.
   - Move to the next exercise
 - ARTWORK: Three Computers, each screen showing x86, ARM, or MIPS.
 
-#### Compilation Process (Text / Code / Console) OR (Text / Image)
+### Compilation Process (Text / Code / Console) OR (Text / Image)
 
 - NARRATIVE
   - Preprocessing
@@ -111,7 +111,7 @@ Link to x86 or MIPS documentation for further reading throughout lesson.
   - Click run to see the machine code outputs of the assembly instructions
 - ARTWORK: None
 
-#### Assembly Code Format (Text / Code / Console)
+### Assembly Code Format (Text / Code / Console)
 
 - NARRATIVE
  - Breakdown a basic Assembly Instruction
@@ -123,7 +123,7 @@ Link to x86 or MIPS documentation for further reading throughout lesson.
    - Etc
 - ARTWORK: None
 
-#### Arithmetic Operations (Text / Code / Console)
+### Arithmetic Operations (Text / Code / Console)
 
 - NARRATIVE
  - Explain Add/Sub/Mult/Div &  AND/OR/NOT/Shifts
@@ -131,7 +131,7 @@ Link to x86 or MIPS documentation for further reading throughout lesson.
  - Answer questions
 - ARTWORK: NONE
 
-#### Memory Access Operations (Text / Code / Console)
+### Memory Access Operations (Text / Code / Console)
 
 - NARRATIVE
  - Explain Loading and Store Operations
@@ -139,7 +139,7 @@ Link to x86 or MIPS documentation for further reading throughout lesson.
  - Answer Questions
 - ARTWORK: NONE
 
-#### Control Flow Operations: Branches, Jumps & Loops (Text / Code / Console)
+### Control Flow Operations: Branches, Jumps & Loops (Text / Code / Console)
 
 - NARRATIVE
  - Explain Jumps, Branches, and Loops
@@ -151,7 +151,7 @@ Link to x86 or MIPS documentation for further reading throughout lesson.
    - Who is the original caller? What are we returning? Etc
 - ARTWORK: NONE
 
-#### Registers / Cache
+### Registers / Cache
 
 - NARRATIVE
  - Why use them
@@ -163,7 +163,7 @@ Link to x86 or MIPS documentation for further reading throughout lesson.
  - None
 - ARTWORK: CPU Diagram from ISA lesson OR Data Bus GIF
 
-#### Memory Addressing: Direct and Indirect (Text / Code / Console)
+### Memory Addressing: Direct and Indirect (Text / Code / Console)
 
 - NARRATIVE
  - Explain direct and indirect addressing
@@ -174,7 +174,7 @@ Link to x86 or MIPS documentation for further reading throughout lesson.
  - Answer questions about addressing
 - ARTWORK: None
 
-#### Big Endian &  Little Endian (Text / Code / Console)
+### Big Endian &  Little Endian (Text / Code / Console)
 
 - NARRATIVE
  - Binary Storage Techniques
@@ -184,7 +184,7 @@ Link to x86 or MIPS documentation for further reading throughout lesson.
  - Answer: Is this big or little endian?
 - ARTWORK: None
 
-#### Translation to/from Binary (Text / Code / Console)
+### Translation to/from Binary (Text / Code / Console)
 
 - NARRATIVE
  - Use MIPS demonstrate how the instructions translate into each other: Assembly to Binary
@@ -194,7 +194,7 @@ Link to x86 or MIPS documentation for further reading throughout lesson.
    - Translate a binary instruction to assembly
 - ARTWORK: None
 
-#### Summary
+### Summary
 - NARRATIVE
   - Summarize Assembly Purpose
   - Summarize Instruction Format
